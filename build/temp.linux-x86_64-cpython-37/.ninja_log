@@ -1,0 +1,23 @@
+# ninja log v5
+0	22540	1655820749934721898	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda.o	f4175e8da2015812
+5	41589	1655820768986722213	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+12	41063	1655821133822728246	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+26	42137	1655821330486731498	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+17	43235	1655823771606771867	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+26	39856	1655823878962773642	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+24	42312	1655824752362788085	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+21	42542	1655825377838798429	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+11	43354	1655825491030800301	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+17	45128	1655825703558803815	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+25	41719	1655825831418805930	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+16	43942	1655825919646807389	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+26	40521	1655826673802819860	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+31	44825	1655826883406823326	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+22	42464	1655826974318824829	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+21	47532	1655846266283143857	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+14	49253	1655846688375150837	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+14	49297	1655847019639156316	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+33	51052	1655847126351158080	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+16	49823	1655847879575170536	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+16	47940	1655848129359174667	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
+23	47389	1655852875387253151	/home/huydq44/MMFormer_code_2/homework/build/temp.linux-x86_64-cpython-37/matrix_multiplication_cuda_kernel.o	6253003e4495c172
